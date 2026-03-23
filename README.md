@@ -25,3 +25,9 @@ Finally, the trained model is deployed as a web application or API. Using Flask 
 In summary, this task encompasses the entire end-to-end data science workflow: data collection, cleaning, preprocessing, model training, evaluation, and deployment. Interns gain experience in handling real-world datasets, building predictive models, and creating deployable solutions that demonstrate the full value of data science. Completing this project not only satisfies internship requirements but also provides a strong foundation for professional practice in machine learning, model deployment, and applied data science.
 
 output of the task :
+
+<img width="1055" height="254" alt="Image" src="https://github.com/user-attachments/assets/881c6262-03d0-4336-b943-79b578eeb9c2" />
+
+<img width="759" height="263" alt="Image" src="https://github.com/user-attachments/assets/c14aec25-044b-481b-9f25-8664cf2752a6" />
+
+<img width="1100" height="272" alt="Image" src="https://github.com/user-attachments/assets/23d76334-c950-4b0e-a116-91c51ace263c" />
